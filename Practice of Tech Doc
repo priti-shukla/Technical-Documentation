@@ -3,3 +3,4 @@ Migration studio supports features for following services:
 1. Cloud to Cloud Migration
 2. Virtual to Cloud Migration
 3. Container Migration
+This section describes how to make an API call for token authentication.
